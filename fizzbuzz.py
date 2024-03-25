@@ -13,3 +13,4 @@ def fizz_buzz():
 # Call the fizz_buzz function
 fizz_buzz()
 
+
